@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/hcgu32/elixirapi.git"
   },
-  "license": "MIT",
+  "license":"Apache-2.0",
   "keywords": [
     "node",
     "elixir","api","turkce","tdk","ceviri","topgg","elixirdevelopment","doviz","bot","discord"
