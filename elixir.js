@@ -243,7 +243,7 @@ const ping = function (ping) {
    const url=`${eurl}/ping?ping=${ping}`
    return url 
   } catch (e) {
-    throw new Error("hata");
+    throw new Error(hata);
   }
 };
 
