@@ -1,0 +1,25 @@
+{
+  "name": "elixirapi",
+  "version": "1.1.9",
+  "description": "Kullanımı Ücretsiz Gelişmiş Bir Api Servisi",
+  "main": "elixir.js",
+  "scripts": {
+    "start": "node elixir.js"
+  },
+  "dependencies": {
+    "axios": "^1.5.1",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcgu32/elixirapi.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "elixir","api","turkce","tdk","ceviri","topgg","elixirdevelopment","doviz","bot","discord"
+  ]
+}
